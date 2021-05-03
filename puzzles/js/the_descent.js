@@ -16,6 +16,7 @@ while (true) {
         }
     }
 
+
     console.log(maxIndice);
 
 }
