@@ -18,6 +18,7 @@ while (TRUE)
         }
     }
 
+
     echo("$maxIndice\n");
 }
 
