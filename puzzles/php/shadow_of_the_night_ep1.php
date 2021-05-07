@@ -41,6 +41,7 @@ while (true)
     $X0 = $x1 + floor(($x2 - $x1) / 2);
     $Y0 = $y1 + floor(($y2 - $y1) / 2);
 
+
     echo("$X0 $Y0\n");
 }
 ?>
